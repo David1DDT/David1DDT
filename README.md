@@ -1,5 +1,5 @@
 <h1>Hi! I'm David. 👋</h1>
-# 💫 About Me:
+
 💫 About Me: <br>🌱 I’m currently learning Web dev<br>💬 Ask me about Python
 
 
